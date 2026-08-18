@@ -1,0 +1,44 @@
+[
+  {
+    "month": "Jan",
+    "avg_processing_time_days": 11,
+    "sla_compliance": 94,
+    "reopened_cases": 8,
+    "closure_rate": 82
+  },
+  {
+    "month": "Feb",
+    "avg_processing_time_days": 10,
+    "sla_compliance": 95,
+    "reopened_cases": 11,
+    "closure_rate": 85
+  },
+  {
+    "month": "Mar",
+    "avg_processing_time_days": 9,
+    "sla_compliance": 96,
+    "reopened_cases": 14,
+    "closure_rate": 88
+  },
+  {
+    "month": "Apr",
+    "avg_processing_time_days": 8,
+    "sla_compliance": 96,
+    "reopened_cases": 17,
+    "closure_rate": 90
+  },
+  {
+    "month": "May",
+    "avg_processing_time_days": 8,
+    "sla_compliance": 97,
+    "reopened_cases": 19,
+    "closure_rate": 92
+  },
+  {
+    "month": "Jun",
+    "avg_processing_time_days": 7,
+    "sla_compliance": 96,
+    "reopened_cases": 24,
+    "closure_rate": 94
+  }
+]

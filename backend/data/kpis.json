@@ -1,0 +1,26 @@
+{
+  "summary": {
+    "active_blind_spots": 3,
+    "high_severity": 1,
+    "cases_analyzed": 1240,
+    "citizen_signal_health": "Amber"
+  },
+  "kpis": [
+    {"label": "Resolution Rate", "value": "94%", "tone": "green"},
+    {"label": "SLA Compliance", "value": "96%", "tone": "green"},
+    {"label": "Repeat Complaints", "value": "+38%", "tone": "red"},
+    {"label": "Reopened Cases", "value": "+24%", "tone": "red"}
+  ],
+  "trend": [
+    {"month": "Jan", "resolution_rate": 82, "repeat_complaints": 12},
+    {"month": "Feb", "resolution_rate": 85, "repeat_complaints": 17},
+    {"month": "Mar", "resolution_rate": 88, "repeat_complaints": 23},
+    {"month": "Apr", "resolution_rate": 90, "repeat_complaints": 29},
+    {"month": "May", "resolution_rate": 92, "repeat_complaints": 34},
+    {"month": "Jun", "resolution_rate": 94, "repeat_complaints": 38}
+  ],
+  "alert": {
+    "title": "Potential blind spot detected",
+    "description": "Administrative closure rate improving while repeat complaints rise — this may indicate a mismatch between reported and actual outcomes."
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "HC-001",
+    "district": "North",
+    "resolution_rate": 82,
+    "repeat_complaints": 12,
+    "reopened_cases": 8,
+    "avg_processing_time_days": 11,
+    "survey_response_rate": 72,
+    "citizen_signal_health": "Stable"
+  },
+  {
+    "case_id": "HC-002",
+    "district": "Central",
+    "resolution_rate": 88,
+    "repeat_complaints": 23,
+    "reopened_cases": 15,
+    "avg_processing_time_days": 9,
+    "survey_response_rate": 66,
+    "citizen_signal_health": "Alert"
+  },
+  {
+    "case_id": "HC-003",
+    "district": "South",
+    "resolution_rate": 94,
+    "repeat_complaints": 38,
+    "reopened_cases": 24,
+    "avg_processing_time_days": 7,
+    "survey_response_rate": 58,
+    "citizen_signal_health": "Critical"
+  }
+]

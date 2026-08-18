@@ -1,0 +1,44 @@
+[
+  {
+    "month": "Jan",
+    "repeat_complaints": 12,
+    "follow_up_contacts": 14,
+    "survey_response_rate": 72,
+    "escalations": 8
+  },
+  {
+    "month": "Feb",
+    "repeat_complaints": 17,
+    "follow_up_contacts": 18,
+    "survey_response_rate": 69,
+    "escalations": 10
+  },
+  {
+    "month": "Mar",
+    "repeat_complaints": 23,
+    "follow_up_contacts": 22,
+    "survey_response_rate": 66,
+    "escalations": 13
+  },
+  {
+    "month": "Apr",
+    "repeat_complaints": 29,
+    "follow_up_contacts": 27,
+    "survey_response_rate": 63,
+    "escalations": 18
+  },
+  {
+    "month": "May",
+    "repeat_complaints": 34,
+    "follow_up_contacts": 31,
+    "survey_response_rate": 60,
+    "escalations": 21
+  },
+  {
+    "month": "Jun",
+    "repeat_complaints": 38,
+    "follow_up_contacts": 35,
+    "survey_response_rate": 58,
+    "escalations": 24
+  }
+]
