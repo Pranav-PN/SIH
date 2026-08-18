@@ -1,6 +1,6 @@
-# CivicSage
+# Intelligent Civic Data Analytics for Transparent and Evidence-Based Governance
 
-CivicSage is a civic intelligence dashboard designed to surface blind spots in public service operations by comparing operational KPIs, citizen feedback, and historical case data. The project is built to help identify mismatches between administrative resolution metrics and citizen-perceived outcomes, making it easier to flag issues such as premature case closure, rising repeat complaints, or weak evidence quality.
+a civic intelligence dashboard designed to surface blind spots in public service operations by comparing operational KPIs, citizen feedback, and historical case data. The project is built to help identify mismatches between administrative resolution metrics and citizen-perceived outcomes, making it easier to flag issues such as premature case closure, rising repeat complaints, or weak evidence quality.
 
 ## What the project does
 
